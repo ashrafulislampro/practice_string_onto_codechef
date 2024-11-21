@@ -1,4 +1,4 @@
 # CodeChef Online Judge 
 
-# ****Topic Name***
+# **Topic Name:
 ## Practice String
